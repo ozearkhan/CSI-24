@@ -13,10 +13,6 @@ This repository contains the weekly assignments which will unlock by week.
 **Resources:**
 - [Getting Started with Node.js](https://direct.nodejs.org/en/docs/guides/getting-started-guidetestlink2)
 
-**Submission:**
-- Drag & drop files (.zip) or Browse (Max File Size: 5MB)
-- OR
-- Share URL
 
 ## Repository Structure
 
