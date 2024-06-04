@@ -11,7 +11,7 @@ This repository contains the weekly assignments which will unlock by week.
 - Understand the basics of the Node.js runtime and execute your application.
 
 **Resources:**
-- [Getting Started with Node.js](https://direct.nodejs.org/en/docs/guides/getting-started-guidetestlink2)
+- [Getting Started with Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 
 ## Repository Structure
