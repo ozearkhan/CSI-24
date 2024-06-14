@@ -13,7 +13,7 @@ This is a simple file management tool built with Node.js using core modules such
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/file-management-tool.git
+https://github.com/ozearkhan/CSI-24/tree/main/week-2/file-management-tool
 cd file-management-tool
 ```
 
