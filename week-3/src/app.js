@@ -23,7 +23,7 @@ readFilePromise('file1.txt')
 // Async function to read files and process their contents
 async function readFilesAndProcess() {
     try {
-        const data1 = await readFilePromise('file1.txt');
+        const data1 = await readFilePromise('file2.txt');
 
         console.log('Processing data from file using async/await:', data1);
     } catch (err) {
