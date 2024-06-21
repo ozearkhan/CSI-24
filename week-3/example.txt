@@ -1,0 +1,4 @@
+This is example.txt
+This file content is read by Callback function.
+
+

@@ -1,0 +1,3 @@
+This is file 1.
+Its content is processed by promise.
+
