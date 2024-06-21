@@ -12,7 +12,7 @@ project-root/
   ├── src/
   │   ├── utils/
   │   │   ├── fileReaderCallback.js
-  │   │   ├── fileReaderCallback.js
+  │   │   ├── fileReaderPromises.js
   │   ├── app.js
   ├── example.txt
   ├── file1.txt
@@ -20,7 +20,8 @@ project-root/
   ├── package.json
 ```
 
-- `src/utils/fileReader.js`: Contains the utility function to read files using Callback & Promises.
+- `src/utils/fileReaderCallback.js`: Contains the utility function to read files using Callback.
+- `src/utils/fileReaderPromises.js`: Contains the utility function to read files using Promises.
 - `src/app.js`: Main application logic to read and process files using async/await.
 - `example.txt`, `file1.txt`, `file2.txt`: Sample text files for testing.
 - `package.json`: Project metadata and dependencies.
