@@ -1,7 +1,7 @@
 {
-  "name": "week-4",
+  "name": "week-5",
   "version": "1.0.0",
-  "description": "This is a basic web server created using Express.js. It handles basic routing and middleware and responds to different endpoints.",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.5"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
